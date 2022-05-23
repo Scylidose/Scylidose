@@ -86,7 +86,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 
 ********
 
-## Passions
+## Passions 🔥
 
 - Astronomy 👤🔭🌟
 - Hiking 🥾🏞️
