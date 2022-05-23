@@ -37,7 +37,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 		</tr>
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/MySql-417298?style=for-the-badge&logo=mysql&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/Sqlite-083755?style=for-the-badge&logo=sqlite&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white"></td>
 			<td align="center"></td>
@@ -45,17 +45,17 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
  			<td align="center"><img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"></td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://img.shields.io/badge/Git-E94F31?style=for-the-badge&logo=git&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/Unix-1C6132?style=for-the-badge&logo=unix&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/kubernetes-336BDF?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Python-336D9A?style=for-the-badge&logo=python&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white"></td>
+      			<td align="center"><img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white"></td>
 		</tr>
 		<tr>
-			<td align="center"></td>
-			<td align="center"></td>
+			<td align="center"><img src="https://img.shields.io/badge/heroku-4F209D?style=for-the-badge&logo=heroku&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/jfrog-3DB934?style=for-the-badge&logo=jfrog&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/JQuery-0865A4?style=for-the-badge&logo=jquery&logoColor=black"></td>
 			<td align="center"></td>
 			<td align="center"></td>
@@ -63,8 +63,8 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
       <td align="center"></td>
 		</tr>
 		<tr>
-			<td align="center"></td>
-			<td align="center"></td>
+			<td align="center"><img src="https://img.shields.io/badge/Git-E94F31?style=for-the-badge&logo=git&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/Unix-1C6132?style=for-the-badge&logo=unix&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 			<td align="center"></td>
 			<td align="center"></td>
