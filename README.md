@@ -3,7 +3,7 @@
 I'm a Developer working mainly with Python and Web-based technology. I enjoy coding fun stuff and discover new things everyday.
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/Scylidose/Machine_Learning_Projects)
-- 🌱 I’m currently learning cloud-based technology
+- 🌱 I’m currently learning cloud-based technologies
 
 ## Skills 🚀
 
@@ -26,6 +26,12 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 ![](https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white)
 ********
 
+## Passions
+
+- Astronomy 👤🔭🌟
+- Hiking 🥾🏞️
+- Litterature 📖📚
+- Sciences in general 👨🏻‍💻👨🏻‍🔬🧪🔬
   
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
