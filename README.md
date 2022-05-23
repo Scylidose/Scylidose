@@ -40,7 +40,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 			<td align="center"><img src="https://img.shields.io/badge/Sqlite-083755?style=for-the-badge&logo=sqlite&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white"></td>
-			<td align="center"></td>
+			<td align="center"><img src="https://img.shields.io/badge/wordpress-31353B?style=for-the-badge&logo=wordpress&logoColor=white"></td>
       <td align="center"><img src="https://img.shields.io/badge/Numpy-4A72C9?style=for-the-badge&logo=numpy&logoColor=white"></td>
  			<td align="center"><img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"></td>
 		</tr>
