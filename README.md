@@ -83,16 +83,15 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 	</tbody>
 </table>
 
-
-********
-
 ## Passions 🔥
 
 - Astronomy 👤🔭🌟
 - Hiking 🥾🏞️
 - Litterature 📖📚
 - Sciences in general 👨🏻‍💻👨🏻‍🔬🧪🔬
-  
+
+********
+
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
 
