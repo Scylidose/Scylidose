@@ -83,6 +83,20 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 	</tbody>
 </table>
 
+## Highlights
+
+### Projects
+
+- [Pet Shop](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop)
+
+- [Music Generation](https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music)
+
+- [AISNA](https://github.com/Scylidose/AISNA)
+
+### Papers 
+
+- [SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People](http://ceur-ws.org/Vol-2942/paper7.pdf)
+
 ## Passions 🔥
 
 - Astronomy 👤🔭🌟
