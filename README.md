@@ -5,7 +5,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 - 🔭 I’m currently working on [machine learning projects](https://github.com/Scylidose/Machine_Learning_Projects)
 - 🌱 I’m currently learning cloud-based technologies
 
-## Skills 🚀
+# Skills 🚀
 
 <table align="center">
 	<thead>
@@ -83,19 +83,43 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 	</tbody>
 </table>
 
-## Highlights
+# Highlights
 
-### Projects
+## Projects
 
-- [Pet Shop](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop)
+### [🐶 Pet Shop](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop)
 
-- [Music Generation](https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music)
+Become a Pokemon Trainer, receive your 3 first Pokemons and try to collect them'all by trading differents Pokemon with other Trainer.
 
-- [AISNA](https://github.com/Scylidose/AISNA)
+<p align="center">
+	<a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop"><img src="https://github.com/Scylidose/100DaysOfCodeChallenge/raw/master/Projects/img/pokemon-collection.gif" width="500"></a>
+</p>
 
-### Papers 
+<br>
 
-- [SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People](http://ceur-ws.org/Vol-2942/paper7.pdf)
+### [🎵 Music Generation](https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music)
+
+Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
+
+<p align="center">
+	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music"><img src="https://github.com/Scylidose/Machine_Learning_Projects/raw/master/img/pokemon-ost-gen.gif" width="500"></a>
+</p>
+
+<br>
+
+### [👨 AISNA](https://github.com/Scylidose/AISNA)
+
+AISNA is a deep learning algorithm which use live faces recognition to determine if the person on camera is either an admin or an unknown person. It also uses voice recognition to show more features on the broadcast if certain words are used.
+
+<p align="center">
+	<a href="https://github.com/Scylidose/AISNA"><img src="https://twibbon.blob.core.windows.net/twibbon/2014/288/19947859-e603-4a25-b4dd-fcbe24e1919d.png" width="300"></a>
+</p>
+
+<br>
+
+## Papers 
+
+### [SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People](http://ceur-ws.org/Vol-2942/paper7.pdf)
 
 ## Passions 🔥
 
