@@ -1,4 +1,4 @@
-## **Hey, I'm Jojo!** 👋
+## **Hey, I'm Jordi!** 👋
 
 I'm a Developer working mainly with Python and Web-based technology. I enjoy coding fun stuff and discover new things everyday.
 
