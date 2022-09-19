@@ -102,7 +102,7 @@ Become a Pokemon Trainer, receive your 3 first Pokemons and try to collect them'
 Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music"><img src="https://github.com/Scylidose/Machine_Learning_Projects/raw/master/img/pokemon-ost-gen.gif" width="500"></a>
+	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
 </p>
 
 <br>
