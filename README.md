@@ -3,7 +3,7 @@
 I'm a Developer working mainly with Python and Web-based technology. I enjoy coding fun stuff and discover new things everyday.
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/Scylidose/Machine_Learning_Projects)
-- 🌱 I’m currently learning cloud-based technologies
+- 🌱 I’m currently learning cloud-based technologies and the MLOps process
 
 # Skills 🚀
 
