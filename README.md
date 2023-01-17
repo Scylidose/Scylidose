@@ -123,12 +123,14 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 
 ## Passions 🔥
 
-- Astronomy 👤🔭🌟
-- Hiking 🥾🏞️
-- Litterature 📖📚
-- Sciences in general 👨🏻‍💻👨🏻‍🔬🧪🔬
+- Astronomy 🔭
+- Hiking 🏞️
+- Litterature 📚
+- Sciences in general 🔬
 
 ********
+
+<a href="https://github.com/Scylidose?tab=repositories">![Metrics](https://raw.githubusercontent.com/Scylidose/Scylidose/main/github-metrics.svg)</a>
 
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
