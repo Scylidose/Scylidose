@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            743 Commits
+                            744 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -186,33 +186,20 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="588.2832978261359" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="588.2832978261359" y="0" width="229.51562627607228" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="817.7989241022082" y="0" width="74.78609521843318" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="892.5850193206413" y="0" width="22.801034911472453" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="915.3860542321137" y="0" width="4.5520323811268915" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="919.9380866132407" y="0" width="0.05123428103487278" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="919.9893208942756" y="0" width="0.0071511868690114" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="919.9964720811445" y="0" width="0.0035279188553789574" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.16444850356606" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="415.16444850356606" y="0" width="396.56809810790185" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="811.732546611468" y="0" width="79.17144247697216" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="890.9039890884401" y="0" width="28.019179349752747" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="918.9231684381929" y="0" width="0.8910947010436884" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="919.8142631392366" y="0" width="0.12437736211838082" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="919.9386405013549" y="0" width="0.061359498645067866" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,6 +212,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -291,7 +284,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.13
+                            Average per day at ~0.14
                         </div>
                     </section>
                 </div>
@@ -2246,10 +2239,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 5.88235294117647)">
+                            <g transform="translate(-3.4, 5.529411764705882)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.117647058823529 0,3.1176470588235294 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1176470588235294 1.7,4.117647058823529 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.470588235294118 0,3.4705882352941178 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4705882352941178 1.7,4.470588235294118 z"/>
                             </g>
                         </g>
                     </g>
@@ -2674,7 +2667,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.22m out of 368m repositories</span>
+                                    <span class="gh">ranked 3.93m out of 368m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
