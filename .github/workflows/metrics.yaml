@@ -32,7 +32,7 @@ jobs:
           plugin_languages_ignored: HTML, Assembly, Shell, ShaderLab, XSLT, Hack
           plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_threshold: 0%
