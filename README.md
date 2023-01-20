@@ -1,11 +1,13 @@
-## **Hey, I'm Jordi!** 👋
+<h1 align="center">Hey, I'm Jordi! 👋</h1>
+
+********
 
 I'm a Developer working mainly with Python and Web-based technology. I enjoy coding fun stuff and discover new things everyday.
 
 - 🔭 I’m currently working on [machine learning projects](https://github.com/Scylidose/Machine_Learning_Projects)
 - 🌱 I’m currently learning cloud-based technologies and the MLOps process
 
-# Skills 🚀
+<h1 align="center">Skills 🚀</h1>
 
 <table align="center">
 	<thead>
@@ -83,9 +85,9 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 	</tbody>
 </table>
 
-# Highlights
+<h1 align="center">Highlights 🌟</h1>
 
-## Projects
+## Projects 💻
 
 ### [🐶 Pet Shop](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop)
 
@@ -117,7 +119,7 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 
 <br>
 
-## Papers 
+## Papers 📝
 
 ### [SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People](http://ceur-ws.org/Vol-2942/paper7.pdf)
 
@@ -130,8 +132,9 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 
 ********
 
+<h1 align="center">Profile stats 📊</h1>
+
 <a href="https://github.com/Scylidose?tab=repositories">![Metrics](https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg)</a>
 
-<summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
 
