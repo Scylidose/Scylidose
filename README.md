@@ -4,7 +4,7 @@
 
 I'm a Developer working mainly with Python and Web-based technology. I enjoy coding fun stuff and discover new things everyday.
 
-- 🔭 I’m currently working on [machine learning projects](https://github.com/Scylidose/Machine_Learning_Projects)
+- 🔭 I’m currently working on <a href="https://github.com/Scylidose/Machine_Learning_Projects" target="_blank">machine learning projects</a>
 - 🌱 I’m currently learning cloud-based technologies and the MLOps process
 
 <h1 align="center">Skills 🚀</h1>
@@ -89,39 +89,39 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 
 ## Projects 💻
 
-### [🐶 Pet Shop](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop)
+<h3><a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank">🐶 Pet Shop</a></h3>
 
 Become a Pokemon Trainer, receive your 3 first Pokemons and try to collect them'all by trading differents Pokemon with other Trainer.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop"><img src="https://github.com/Scylidose/100DaysOfCodeChallenge/raw/master/Projects/img/pokemon-collection.gif" width="500"></a>
+	<a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank"><img src="https://github.com/Scylidose/100DaysOfCodeChallenge/raw/master/Projects/img/pokemon-collection.gif" width="500"></a>
 </p>
 
 <br>
 
-### [🎵 Music Generation](https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music)
+<h3><a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music" target="_blank">🎵 Music Generation</a></h3>
 
 Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
+	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
 </p>
 
 <br>
 
-### [👨 AISNA](https://github.com/Scylidose/AISNA)
+<h3><a href="https://github.com/Scylidose/AISNA" target="_blank">👨 AISNA</a></h3>
 
 AISNA is a deep learning algorithm which use live faces recognition to determine if the person on camera is either an admin or an unknown person. It also uses voice recognition to show more features on the broadcast if certain words are used.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/AISNA"><img src="https://twibbon.blob.core.windows.net/twibbon/2014/288/19947859-e603-4a25-b4dd-fcbe24e1919d.png" width="300"></a>
+	<a href="https://github.com/Scylidose/AISNA" target="_blank"><img src="https://twibbon.blob.core.windows.net/twibbon/2014/288/19947859-e603-4a25-b4dd-fcbe24e1919d.png" width="300"></a>
 </p>
 
 <br>
 
 ## Papers 📝
 
-### [SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People](http://ceur-ws.org/Vol-2942/paper7.pdf)
+<h3><a href="http://ceur-ws.org/Vol-2942/paper7.pdf" target="_blank">SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People</a></h3>
 
 ## Passions 🔥
 
@@ -134,7 +134,7 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 
 <h1 align="center">Profile stats 📊</h1>
 
-<a href="https://github.com/Scylidose?tab=repositories">![Metrics](https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg)</a>
+<a href="https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg" target="_blank">![Metrics](https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg)</a>
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
 
