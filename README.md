@@ -133,5 +133,5 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 <a href="https://github.com/Scylidose?tab=repositories">![Metrics](https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg)</a>
 
 <summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scylidose&show_icons=true&theme=dracula" alt="Scylidose's Stats" /> 
 
