@@ -51,7 +51,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 			<td align="center"><img src="https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Python-336D9A?style=for-the-badge&logo=python&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black"></td>
+			<td align="center"><img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=111"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
       			<td align="center"><img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white"></td>
 		</tr>
