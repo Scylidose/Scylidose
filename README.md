@@ -91,7 +91,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 
 <h3><a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank">🐶 Pet Shop</a></h3>
 
-Become a Pokemon Trainer, receive your 3 first Pokemons and try to collect them'all by trading differents Pokemon with other Trainer.
+Become a Pokemon trainer and receive your 3 first Pokemon. Try to collect them'all by trading differents Pokemon with other trainers, like we used to trade cards back in the days.
 
 <p align="center">
 	<a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank"><img src="https://github.com/Scylidose/100DaysOfCodeChallenge/raw/master/Projects/img/pokemon-collection.gif" width="500"></a>
@@ -115,6 +115,16 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 
 <p align="center">
 	<a href="https://github.com/Scylidose/AISNA" target="_blank"><img src="https://twibbon.blob.core.windows.net/twibbon/2014/288/19947859-e603-4a25-b4dd-fcbe24e1919d.png" width="300"></a>
+</p>
+
+<br>
+
+<h3><a href="https://github.com/Scylidose/MECC" target="_blank">🤖 MECC</a></h3>
+
+MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specialized on cybersecurity education and sensibilization. It will assess the user on his knowledge about cybersecurity and teach him important notions about it while trying to manipulate him to give it his personal data.
+
+<p align="center">
+	<a href="https://github.com/Scylidose/MECC" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/217105313-b49e15b3-7a12-4c39-bc2e-0b9a4e3195c3.png" width="300"></a>
 </p>
 
 <br>
