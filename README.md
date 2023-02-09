@@ -51,7 +51,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/kubernetes-336BDF?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+			<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/JQuery-0865A4?style=for-the-badge&logo=jquery&logoColor=black"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Python-336D9A?style=for-the-badge&logo=python&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=111"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
@@ -60,7 +60,7 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/heroku-4F209D?style=for-the-badge&logo=heroku&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/jfrog-3DB934?style=for-the-badge&logo=jfrog&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/JQuery-0865A4?style=for-the-badge&logo=jquery&logoColor=black"></td>
+			<td align="center"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
