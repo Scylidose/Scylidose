@@ -95,7 +95,7 @@ Become a Pokemon trainer and receive your 3 first Pokemon. Try to collect them'a
 
 <h3><a href="https://github.com/Scylidose/Generate_Music" target="_blank">🎵 Music Generation</a></h3>
 
-Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
+Will generate music on various themes based on OST from the fourth generation (Platinum/Diamond/Perl) of Pokemon games.
 
 <p align="center">
 	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
