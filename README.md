@@ -93,8 +93,6 @@ Become a Pokemon trainer and receive your 3 first Pokemon. Try to collect them'a
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<br>
-
 <h3><a href="https://github.com/Scylidose/Generate_Music" target="_blank">🎵 Music Generation</a></h3>
 
 Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
@@ -111,8 +109,6 @@ Will generate either a Battle, Route or Building song based on the fourth genera
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
 </p>
 
-<br>
-
 <h3><a href="https://github.com/Scylidose/AISNA" target="_blank">👨 AISNA</a></h3>
 
 AISNA is a deep learning algorithm which use live faces recognition to determine if the person on camera is either an admin or an unknown person. It also uses voice recognition to show more features on the broadcast if certain words are used.
@@ -124,8 +120,6 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
-
-<br>
 
 <h3><a href="https://github.com/Scylidose/MECC" target="_blank">🤖 MECC</a></h3>
 
