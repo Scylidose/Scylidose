@@ -87,6 +87,8 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 	</tbody>
 </table>
 
+********
+
 <h1 align="center">Highlights 🌟</h1>
 
 ## Projects 💻
@@ -128,8 +130,6 @@ MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specializ
 <p align="center">
 	<a href="https://github.com/Scylidose/MECC" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/217105313-b49e15b3-7a12-4c39-bc2e-0b9a4e3195c3.png" width="300"></a>
 </p>
-
-<br>
 
 ## Papers 📝
 
