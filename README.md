@@ -7,6 +7,8 @@ I'm a Developer working mainly with Python and Web-based technology. I enjoy cod
 - 🔭 I’m currently working on <a href="https://github.com/Scylidose/Machine_Learning_Projects" target="_blank">machine learning projects</a>
 - 🌱 I’m currently looking forward to learn about robotic.
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 <h1 align="center">Skills 🚀</h1>
 
 <table align="center">
@@ -140,7 +142,7 @@ MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specializ
 - Litterature 📚
 - Sciences in general 🔬
 
-********
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 <h1 align="center">Profile stats 📊</h1>
 
