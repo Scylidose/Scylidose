@@ -40,7 +40,7 @@ I'm a Developer working mainly with **Python** and **Web-based** technology. I e
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/MySql-417298?style=for-the-badge&logo=mysql&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Sqlite-083755?style=for-the-badge&logo=sqlite&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white"><br><img src="https://img.shields.io/badge/wordpress-31353B?style=for-the-badge&logo=wordpress&logoColor=white"></td>
       <td align="center"><img src="https://img.shields.io/badge/Numpy-4A72C9?style=for-the-badge&logo=numpy&logoColor=white"></td>
  			<td align="center"><img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"></td>
@@ -64,7 +64,7 @@ I'm a Developer working mainly with **Python** and **Web-based** technology. I e
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/Git-E94F31?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><br><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"><br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></td>
+			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
       			<td align="center"></td>
