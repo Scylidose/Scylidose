@@ -4,8 +4,8 @@
 
 I'm a Developer working mainly with **Python** and **Web-based** technology. I enjoy coding fun stuff and discover new things everyday.
 
-- 🔭 I’m currently working on <a href="https://github.com/Scylidose/Machine_Learning_Projects" target="_blank">machine learning projects</a>
-- 🌱 I’m currently looking forward to learn about robotic.
+- 🔭 I’m currently working on <a href="https://github.com/Scylidose/Machine_Learning_Projects" target="_blank">machine learning projects</a> including LLM, GAN and other algorithms.
+- 🌱 I’m looking forward to learn about robotic and how to use raspberryPI technology.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
