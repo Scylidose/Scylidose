@@ -2,14 +2,14 @@
 
 ********
 
-I'm a Developer working mainly with **Python** and **Web-based** technology. I enjoy coding fun stuff and discover new things everyday.
+I'm a Developer working mainly with **Web, Machine Learning** and **Deep learning based** technologies. I enjoy coding fun stuff and discover new things everyday.
 
 - 🔭 I’m currently working on <a href="https://github.com/Scylidose/Machine_Learning_Projects" target="_blank">machine learning projects</a> including LLM, GAN and other algorithms.
 - 🌱 I’m looking forward to learn about robotic and how to use raspberryPI technology.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-<h1 align="center">Skills 🚀</h1>
+<h1 align="center">SKILLS 🚀</h1>
 
 <table align="center">
 	<thead>
@@ -74,7 +74,7 @@ I'm a Developer working mainly with **Python** and **Web-based** technology. I e
 
 ********
 
-<h1 align="center">Highlights 🌟</h1>
+<h1 align="center">HIGHLIGHTS 🌟</h1>
 
 ## Projects 💻
 
@@ -143,15 +143,15 @@ MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specializ
 
 <br>
 
-<h2 align="center">Check out more <a href="https://github.com/Scylidose?tab=repositories">Here</a> 🚀</h2>
+<h2 align="center">CHECK OUT MORE <a href="https://github.com/Scylidose?tab=repositories">HERE</a> 🚀</h2>
 
 <br>
 
-## Papers 📝
+## PAPERS 📝
 
 - <h3><a href="http://ceur-ws.org/Vol-2942/paper7.pdf" target="_blank">SecuBot, a Teacher in Appearance: How Social Chatbots Can Influence People</a></h3>
 
-## Passions 🔥
+## PASSIONS 🔥
 
 - ### Astronomy 🔭
 - ### Hiking 🏞️
@@ -160,7 +160,7 @@ MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specializ
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-<h1 align="center">Profile stats 📊</h1>
+<h1 align="center">PROFILE STATS 📊</h1>
 
 <a href="https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg" target="_blank">![Metrics](https://github.com/Scylidose/Scylidose/blob/main/github-metrics.svg)</a>
 
