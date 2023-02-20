@@ -126,7 +126,7 @@ AISNA is a deep learning algorithm which use live faces recognition to determine
 MECC (or Miscellaneous Educational Cybersecurity Chatbot) is a chatbot specialized on cybersecurity education and sensibilization. It will assess the user on his knowledge about cybersecurity and teach him important notions about it while trying to manipulate him to give it his personal data.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/MECC" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/219983356-b85d1902-0c67-4a76-ac09-8382b8c5af1d.png" width="300"></a>
+	<a href="https://github.com/Scylidose/MECC" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/219983356-b85d1902-0c67-4a76-ac09-8382b8c5af1d.png" width="800"></a>
 </p>
 
 <p align="center">
