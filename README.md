@@ -93,12 +93,12 @@ Become a Pokemon trainer and receive your 3 first Pokemon. Try to collect them'a
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<h3><a href="https://github.com/Scylidose/Generate_Music" target="_blank">🎵 Music Generation</a></h3>
+<h3><a href="https://github.com/Scylidose/PokeBeats" target="_blank">🎵 PokeBeats</a></h3>
 
 Will generate music on various themes based on OST from the fourth generation (Platinum/Diamond/Perl) of Pokemon games.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/Generate_Music" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
+	<a href="https://github.com/Scylidose/Machine_Learning_Projects/tree/master/PokeBeats" target="_blank"><img src="https://user-images.githubusercontent.com/28122432/190934144-208a34cf-67b4-4d84-a861-25e7cb470b92.png" width="800"></a>
 </p>
 
 <p align="center">
