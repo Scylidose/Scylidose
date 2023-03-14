@@ -24,7 +24,7 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
 		<tr>
 			<td align="center"><img src="https://img.shields.io/badge/c-9EB0C3?style=for-the-badge&logo=c&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/-c++-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-			<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br><img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"> <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br><img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"> <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td>
 			<td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Python-336D9A?style=for-the-badge&logo=python&logoColor=white"></td>
       <td align="center"><img src="https://img.shields.io/badge/jupyter-E77124?style=for-the-badge&logo=jupyter&logoColor=white"></td>
@@ -38,7 +38,7 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
  			<td align="center"><img src="https://img.shields.io/badge/Seaborn-404570?style=for-the-badge&logo=seaborn&logoColor=white"></td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://img.shields.io/badge/MySql-417298?style=for-the-badge&logo=mysql&logoColor=white"></td>
+			<td align="center"><img src="https://img.shields.io/badge/MySql-417298?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/Sqlite-083755?style=for-the-badge&logo=sqlite&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></td>
 			<td align="center"><img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white"><br><img src="https://img.shields.io/badge/wordpress-31353B?style=for-the-badge&logo=wordpress&logoColor=white"></td>
