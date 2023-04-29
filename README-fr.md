@@ -1,3 +1,8 @@
+<table align="left">
+ <tr><td><a href="https://github.com/Scylidose/Scylidose/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Scylidose/Scylidose/blob/main/README-fr.md">:fr: French</a></td></tr>
+</table>
+
 <h1 align="center">Coucou, je m'appelle Jordi! 👋</h1>
 
 ********
