@@ -60,19 +60,16 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
       <td></td>
       <td>
 	<div align="center">
-	  <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"> 
 	  <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> 
+	  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"><br>
 	  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
-  	  <img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white"><br>
-	  <img src="https://img.shields.io/badge/wordpress-31353B?style=for-the-badge&logo=wordpress&logoColor=white"> 
+	  <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"><br>
 	  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+	  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
+  	  <img src="https://img.shields.io/badge/PHP-4E5A93?style=for-the-badge&logo=php&logoColor=white">
+	  <img src="https://img.shields.io/badge/wordpress-31353B?style=for-the-badge&logo=wordpress&logoColor=white">
 	</div>
       </td>
       <td>
@@ -113,7 +110,6 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
           <img src="https://img.shields.io/badge/docker-228EE1?style=for-the-badge&logo=docker&logoColor=white">
         </div>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>☁️ Hosting/SaaS</td>
