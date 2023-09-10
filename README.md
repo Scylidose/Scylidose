@@ -81,10 +81,10 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
       <td>
 	<div align="center">
 	  <img src="https://img.shields.io/badge/Numpy-4A72C9?style=for-the-badge&logo=numpy&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"> 
+	  <img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"><br>
 	  <img src="https://img.shields.io/badge/Matplotlib-0E5076?style=for-the-badge&logo=matplotlib&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/Seaborn-404570?style=for-the-badge&logo=seaborn&logoColor=white"> 
-	  <img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white"><br>
+	  <img src="https://img.shields.io/badge/Seaborn-404570?style=for-the-badge&logo=seaborn&logoColor=white"><br>
+	  <img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white">
 	  <img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white"> 
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 	</div>
@@ -96,7 +96,7 @@ I'm a Developer working mainly with **Web, Machine Learning** and **Deep learnin
         <div align="center">
           <img src="https://img.shields.io/badge/MySql-417298?style=for-the-badge&logo=mysql&logoColor=white"> 
 	  <img src="https://img.shields.io/badge/Sqlite-083755?style=for-the-badge&logo=sqlite&logoColor=white"><br>
-	  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+	  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
         </div>
       </td>
