@@ -168,8 +168,8 @@ Application Web permettant de suivre les habitudes, de gagner des niveaux grâce
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
  <p align="center">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</p>
+	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+ </p>
 
 <h3><a href="https://github.com/Scylidose/PokeBeats" target="_blank">🎵 PokeBeats</a></h3>
 
