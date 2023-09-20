@@ -152,19 +152,23 @@ Je suis un développeur travaillant principalement avec les technologies **Web, 
 
 ## Projets 💻
 
-<h3><a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank">🐶 Pet Shop</a></h3>
+<h3><a href="https://github.com/Scylidose/aBitMotivation" target="_blank">💪 aBitMotivation</a></h3>
 
-Devenez dresseur de Pokémon et recevez vos 3 premiers Pokémon. Essayez de tous les collectionner en échangeant différents Pokémon avec d'autres entraîneurs, comme nous avions l'habitude d'échanger des cartes à l'époque.
+Application Web permettant de suivre les habitudes, de gagner des niveaux grâce aux points d'expérience et d'atteindre des étapes de croissance personnelle. Utilise également un système de recommandation développé en Python. Conçu pour promouvoir le bien-être et la création d’habitudes saines.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Projects/PetShop" target="_blank"><img src="https://github.com/Scylidose/100DaysOfCodeChallenge/raw/master/Projects/img/pokemon-collection.gif" width="500"></a>
+	<a href="https://github.com/Scylidose/aBitMotivation" target="_blank"> <img width="1272" alt="home_page_abitmotivation" src="https://github.com/Scylidose/Scylidose/assets/28122432/09cc5541-56bd-489b-9e7b-490e99331254">
+</a>
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
-<p align="center">
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <p align="center">
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+ <p align="center">
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
 <h3><a href="https://github.com/Scylidose/PokeBeats" target="_blank">🎵 PokeBeats</a></h3>
