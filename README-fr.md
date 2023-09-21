@@ -85,6 +85,7 @@ Je suis un développeur travaillant principalement avec les technologies **Web, 
 	  <img src="https://img.shields.io/badge/Pandas-DA0581?style=for-the-badge&logo=pandas&logoColor=white"><br>
 	  <img src="https://img.shields.io/badge/Matplotlib-0E5076?style=for-the-badge&logo=matplotlib&logoColor=white"> 
 	  <img src="https://img.shields.io/badge/Seaborn-404570?style=for-the-badge&logo=seaborn&logoColor=white"><br>
+	  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 	  <img src="https://img.shields.io/badge/Tensorflow-F78001?style=for-the-badge&logo=tensorflow&logoColor=white">
 	  <img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white"> 
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
