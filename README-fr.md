@@ -223,6 +223,7 @@ MECC (ou Miscellaneous Educational Cybersecurity Chatbot) est un chatbot spécia
 <br>
 
 <h2 align="center">EN DÉCOUVRIR PLUS <a href="https://github.com/Scylidose?tab=repositories">ICI</a> 🚀</h2>
+<h4 align="center">Tu peux aussi voir mon <a href="https://www.kaggle.com/scylidose">profil Kaggle</a></h4>
 
 <br>
 
