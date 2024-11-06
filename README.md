@@ -193,7 +193,8 @@ Will generate music on various themes based on OST from the fourth generation (P
 AISNA is a deep learning algorithm which use live faces recognition to determine if the person on camera is either an admin or an unknown person. It also uses voice recognition to show more features on the broadcast if certain words are used.
 
 <p align="center">
-	<a href="https://github.com/Scylidose/AISNA" target="_blank"><img src="https://twibbon.blob.core.windows.net/twibbon/2014/288/19947859-e603-4a25-b4dd-fcbe24e1919d.png" width="300"></a>
+	<a href="https://github.com/Scylidose/AISNA" target="_blank"><img width="648" alt="aisna-demo" src="https://github.com/user-attachments/assets/efd18175-5a98-42fd-bb9b-3a816e559d55">
+</a>
 </p>
 
 <p align="center">
