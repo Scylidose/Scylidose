@@ -189,7 +189,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="457.5772830718801" height="8" fill="#DA5B0B"/>
                     <rect mask="url(#languages-bar)" x="457.5772830718801" y="0" width="314.30973917115426" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="771.8870222430344" y="0" width="87.50317958323578" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="859.3902018262702" y="0" width="23.241125731678764" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="859.3902018262702" y="0" width="23.241125731678764" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="882.631327557949" y="0" width="19.46238351674081" height="8" fill="#178600"/>
                     <rect mask="url(#languages-bar)" x="902.0937110746897" y="0" width="9.70430906110981" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="911.7980201357994" y="0" width="5.334836806368531" height="8" fill="#dd1100"/>
@@ -216,7 +216,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2240,6 +2240,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2295,7 +2300,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.59411362080766 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
